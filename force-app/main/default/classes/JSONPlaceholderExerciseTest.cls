@@ -70,4 +70,4 @@ public class JSONPlaceholderExerciseTest {
         // Assert
         Assert.areEqual(200, statusCode, 'Delete request should return status code 200');
     }
-} 
+}
